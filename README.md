@@ -1,3 +1,36 @@
+## Turle P(ee)? 🐢
+
+## Getting Started
+
+The setup process to get this running should hopefully be super simple 🤞
+
+Start by cloning this repo locally:
+
+```
+git clone https://github.com/JennerF/turtle-tracker.git
+```
+
+Then go into the newly dowloaded repo and install the needed dependencies with `yarn`:
+
+```
+yarn install
+```
+
+If you don't have `yarn` installed, go ahead and `brew install yarn`. `yarn` is
+an alternative to `npm` (or maybe `pip` in python world).
+
+Finally, assuming everything above went smoothly, run the application:
+
+```
+yarn start
+```
+
+You should see an electron window open (like below).
+
+![Image of Electron Screen](/docs/images/initial_screen_1.png)
+
+#### Prior README
+
 ## Electron-Forge + React + TypeScript Boilerplate 🚀
 
 Based on https://ankitbko.github.io/2019/08/electron-forge-with-react-and-typescript/  
