@@ -1,4 +1,4 @@
-## Turle P(ee)? 🐢
+## Turle P 🐢
 
 ## Getting Started
 
